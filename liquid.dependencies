@@ -1,8 +1,8 @@
 [
     {
 
-        "remote": "gh",
-        "repository": "mtb3000gt/android_device_samsung_p5100",
+        "remote": "lsd",
+        "repository": "android_device_samsung_p5100",
         "target_path": "device/samsung/p5100",
         "revision": "kitkat"
     },
